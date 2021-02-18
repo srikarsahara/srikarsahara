@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with web development
 - 💬 Ask me about tech gadgets
 - 📫 How to reach me: #srikarsahara
-- 😄 Pronouns: ... i am cool
-- ⚡ Fun fact: ... thia may not be true
+- 😄 Pronouns: ... cool
+- ⚡ Fun fact: ... thi may not be true
 
